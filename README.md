@@ -29,5 +29,9 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, I believe, creating sustainable arts boosts my creativity
 
-Check out my articles
+[![Divya's github stats](https://github-readme-stats.vercel.app/api?username=dvellanki&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Check out my latest articles
+<a target="_blank" href="https://divya-vellanki94.medium.com/how-to-create-an-interactive-custom-ui-for-a-clustering-use-case-5eb516f75687"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@dvellanki/0" alt="Recent Article 0"> 
 
