@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - I love programming and data science
-*🌱 I believe there is always something to learn and do things in a new way
+Markup : *🌱 I believe there is always something to learn and do things in a new way
 *🌍 I am currently working with VMware as an Application Developer
 *Connect with me on:
   *🏢 [LinkedIn] www.linkedin.com/in/divya-vellanki/
@@ -25,5 +25,9 @@ Here are some ideas to get you started:
   *💡 [Medium] https://divya-vellanki94.medium.com/
   *🎯 Projects
   *🔈 [Podcast] https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, creating sustainable arts boosts my creativity
