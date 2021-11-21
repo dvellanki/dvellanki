@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 * 📫 Learn more about me on:
    * 💡 [Medium](https://divya-vellanki94.medium.com/)
    * 🎯 Projects
-   * 🔈 [Podcast](https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki)
+   * 🔈 Podcasts/Talks
+       * https://youtu.be/9b-K-gmjDJo
+       * https://www.youtube.com/watch?v=2zzS53JwKKM
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, I believe, creating sustainable arts boosts my creativity
 
@@ -37,5 +39,6 @@ Here are some ideas to get you started:
 
 ### Personal Blogs
 [Power of Sharing Your Story](https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki)
+  
   
 
