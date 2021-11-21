@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * 🌱 I believe there is always something to learn and do things in a new way
 * 🌍 I am currently working with VMware as an Application Developer
 * Connect with me on:
-   * 🏢 .[LinkedIn]. (www.linkedin.com/in/divya-vellanki/)
+   * 🏢 [here] (www.linkedin.com/in/divya-vellanki/)
    * ![alt text]().[Quora]. (https://www.quora.com/profile/Divya-Vellanki-2)
 * 📫 Learn more about me on:
    * 💡 .[Medium]. (https://divya-vellanki94.medium.com/)
