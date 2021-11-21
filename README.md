@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 * 🌱 I believe there is always something to learn and do things in a new way
 * 🌍 I am currently working with VMware as an Application Developer
 * Connect with me on:
-   * 🏢 [LinkedIn] www.linkedin.com/in/divya-vellanki/
-   * ![alt text](https://play-lh.googleusercontent.com/2FgK0PBW21nF8Nkp1j36BdOb5w7Df-Z1FJevfoD97JH7LTp0ZfacldQKJGpJeUl-qg)[Quora] https://www.quora.com/profile/Divya-Vellanki-2
+   * 🏢 [a LinkedIn] www.linkedin.com/in/divya-vellanki/
+   * ![alt text](https://play-lh.googleusercontent.com/2FgK0PBW21nF8Nkp1j36BdOb5w7Df-Z1FJevfoD97JH7LTp0ZfacldQKJGpJeUl-qg)[a Quora] https://www.quora.com/profile/Divya-Vellanki-2
 * 📫 Learn more about me on:
-   * 💡 [Medium] https://divya-vellanki94.medium.com/
+   * 💡 [a Medium] https://divya-vellanki94.medium.com/
    * 🎯 Projects
-   * 🔈 [Podcast] https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki
+   * 🔈 [a Podcast] https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, I believe, creating sustainable arts boosts my creativity
 
