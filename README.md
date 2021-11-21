@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 ### Check out my latest articles
-<a target="_blank" href="https://divya-vellanki94.medium.com/how-to-create-an-interactive-custom-ui-for-a-clustering-use-case-5eb516f75687"><img src="https://miro.medium.com/max/875/1*BWQFmYtSOlZoTs_N3yW2-Q.png" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/0"><img src="https://miro.medium.com/max/875/1*BWQFmYtSOlZoTs_N3yW2-Q.png" alt="Recent Article 0"> 
 
