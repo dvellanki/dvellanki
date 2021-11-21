@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I love programming and data science
+* I love programming and data science
 Markup : *🌱 I believe there is always something to learn and do things in a new way
 *🌍 I am currently working with VMware as an Application Developer
 *Connect with me on:
@@ -25,9 +25,5 @@ Markup : *🌱 I believe there is always something to learn and do things in a n
   *💡 [Medium] https://divya-vellanki94.medium.com/
   *🎯 Projects
   *🔈 [Podcast] https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, creating sustainable arts boosts my creativity
