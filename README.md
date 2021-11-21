@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I love programming and data science
-🌱 I believe there is always something to learn and do things in a new way
-🌍 I am currently working with VMware as an Application Developer
-Connect with me on:
-🏢 [LinkedIn] www.linkedin.com/in/divya-vellanki/
-📫 Learn more about me on:
-💡 [Medium] https://divya-vellanki94.medium.com/
-🎯 Projects
-🔈 [Podcast] https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki
+- I love programming and data science
+-🌱 I believe there is always something to learn and do things in a new way
+-🌍 I am currently working with VMware as an Application Developer
+-Connect with me on:
+--🏢 [LinkedIn] www.linkedin.com/in/divya-vellanki/
+--📫 Learn more about me on:
+--💡 [Medium] https://divya-vellanki94.medium.com/
+--🎯 Projects
+--🔈 [Podcast] https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, creating sustainable arts boosts my creativity
