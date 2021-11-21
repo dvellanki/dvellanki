@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 
 ### Check out my latest articles
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/0"><img src="https://miro.medium.com/max/875/1*BWQFmYtSOlZoTs_N3yW2-Q.png" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/0" alt="Recent Article 0"> 
 
