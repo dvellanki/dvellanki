@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 * 🌍 I am currently working with VMware as an Application Developer
 * Connect with me on:
    * 🏢 [Linkedin](www.linkedin.com/in/divya-vellanki/)
-   * 💬 [Quora]https://www.quora.com/profile/Divya-Vellanki-2)
+   * 💬 [Quora](https://www.quora.com/profile/Divya-Vellanki-2)
 * 📫 Learn more about me on:
    * 💡 [Medium](https://divya-vellanki94.medium.com/)
    * 🎯 Projects
