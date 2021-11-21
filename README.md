@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - I love programming and data science
--🌱 I believe there is always something to learn and do things in a new way
+--🌱 I believe there is always something to learn and do things in a new way
 -🌍 I am currently working with VMware as an Application Developer
 -Connect with me on:
 --🏢 [LinkedIn] www.linkedin.com/in/divya-vellanki/
