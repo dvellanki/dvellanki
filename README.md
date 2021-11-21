@@ -26,8 +26,8 @@ Here are some ideas to get you started:
    * 💡 [Medium](https://divya-vellanki94.medium.com/)
    * 🎯 Projects
    * 🔈 Podcasts/Talks
-       * https://youtu.be/9b-K-gmjDJo
-       * https://www.youtube.com/watch?v=2zzS53JwKKM
+       * [Tech Diva Success](https://youtu.be/9b-K-gmjDJo)
+       * [GlobalTechWomen](https://www.youtube.com/watch?v=2zzS53JwKKM)
 
 ⚡ Fun fact: Like how mathematics require a realm of imagination, I believe, creating sustainable arts boosts my creativity
 
