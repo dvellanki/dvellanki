@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### Check out my latest articles
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/0" alt="Recent Article 0"> 
   
-<a target="_blank" href="https://divya-vellanki94.medium.com/simplifying-it-with-rich-6af4e760648a"><img src="https://divya-vellanki94.medium.com/simplifying-it-with-rich-6af4e760648a" alt="Recent Article 1">   
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/1" alt="Recent Article 1">   
 
 ### Personal Blogs
 [Power of Sharing Your Story](https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki)
