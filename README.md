@@ -40,11 +40,6 @@ Here are some ideas to get you started:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/1" alt="Recent Article 1"> 
   
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@divya-vellanki94/2" alt="Recent Article 2">  
-
-
-
-  
 ### Personal Blogs
 [Power of Sharing Your Story](https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki)
   
