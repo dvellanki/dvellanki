@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* I love programming and expanding my knowledge in different domains
+* I like expanding my knowledge in domains of app modernization and data science
 * 🌱 I believe there is always something to learn and do things in a new way
 * 🌍 I am currently working with VMware as an Application Developer
 * 🌱 I am passionate about bringing more women in tech and collaborate with various communities leading programs in this regard.
