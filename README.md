@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   
 ### Personal Blogs
 [Power of Sharing Your Story](https://www.techdivasuccess.com/tech-diva-success-podcast-blog/divya-vellanki)
+[Hey there, You are not alone!!](https://divya-vellanki94.medium.com/hey-there-you-are-not-alone-e122a83a57d) 
   
   
 
