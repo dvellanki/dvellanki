@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 * I like expanding my knowledge in domains of app modernization and data science
 * 🌱 I believe there is always something to learn and do things in a new way
-* 🌍 I am currently working with VMware as an Application Developer
+* 🌍 I am currently working with University of Florida as an Application Solutions Lead
 * 🌱 I am passionate about bringing more women in tech and collaborate with various communities leading programs in this regard.
 * 📫 Connect with me on:
    * 🏢 [Linkedin](www.linkedin.com/in/divya-vellanki/)
